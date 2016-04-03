@@ -3,7 +3,7 @@
 
   <groupId>org.jitsi</groupId>
   <artifactId>jitsi-universe-public</artifactId>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.0.1</version>
   <packaging>pom</packaging>
 
   <name>jitsi-universe-public</name>
@@ -14,7 +14,7 @@
     <url>https://github.com/jitsi/jitsi-universe-public</url>
     <connection>scm:git:https://github.com/jitsi/jitsi-universe-public.git</connection>
     <developerConnection>scm:git:https://github.com/jitsi/jitsi-universe-public.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>v1.0.1</tag>
   </scm>
 
   <licenses>
